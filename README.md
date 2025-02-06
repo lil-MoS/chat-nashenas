@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f16f43fa-990d-4c72-a197-323eb93dce7b)
+<center>![image](https://github.com/user-attachments/assets/f16f43fa-990d-4c72-a197-323eb93dce7b)
 
 
 
@@ -13,6 +13,7 @@
 /who_add  - کی اینوایت کرده
 /send_all - همگانی
 - - -
-× خرید سورس به قیمت استثنایی فقط 200 عزار تومان
+× خرید سورس به قیمت استثنایی فقط 200 هزار تومان
 [خرید](https://t.me/hellblade66)
 
+</center>
